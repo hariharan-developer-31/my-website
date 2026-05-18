@@ -1,6 +1,6 @@
 const services = [
   {
-    title: "Market Breakdown",
+    title: "Market Breakdowns",
     description:
       "Clean, focused analysis for major forex, crypto, and index setups with clear directional bias.",
     note: "Daily directional outlook",
